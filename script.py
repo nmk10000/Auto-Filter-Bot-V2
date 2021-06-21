@@ -4,7 +4,7 @@ class script(object):
     START_MSG = """ <b>Hi {}
 
 ഞാൻ ഒരു 𝘼𝙪𝙩𝙤 𝙁𝙞𝙡𝙩𝙚𝙧 ബോട്ട് ആണ്, 
-എന്റെ creater [ഇതേഹം](t.me/kevincris0) aan
+എന്റെ creater [ഇതേഹം](t.me/kevincris0) ആണ് 
 𝐅𝐨𝐫 𝐌𝐨𝐫𝐞 𝐃𝐞𝐭𝐚𝐢𝐥𝐬 𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐥𝐩 𝐁𝐮𝐭𝐭𝐨𝐧 𝐁𝐞𝐥𝐨𝐰..
 @KevinCris0</b>"""
 
@@ -47,18 +47,15 @@ or
 No need add each filter again!
 Bot will automatically search for your files and give links to that!
 
-
-<b>© @TroJanzHEX</b>"""
+"""
 
 
     ABOUT_MSG = """⭕️<b>My Name : Auto Filter Bot V2</b>
     
-⭕️<b>Creater :</b> @TroJanzHEX
+⭕️<b>Creater :</b> @KevinCris0
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
 ⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
-
-⭕️<b>Tutorial Video :</b> <a href='https://youtu.be/KQVYQAOsFYY'>Video Link</a> 
 
 """
