@@ -30,7 +30,7 @@
         },
         "AUTH_USERS": {
             "description": "ID of users that can use the bot commands",
-            "value": ""
+            "value": "1181258174"
         },
         "DATABASE_URI": {
             "description": "Database URL from https://cloud.mongodb.com/",
