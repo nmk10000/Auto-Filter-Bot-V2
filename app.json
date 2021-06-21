@@ -18,11 +18,11 @@
         },
         "API_HASH": {
             "description": "Your API Hash from my.telegram.org or @UseTGXBot",
-            "value": ""
+            "value": "6ecaafd0376ef55886a2926a6e3ef11c"
         },
         "APP_ID": {
             "description": "Your APP ID from my.telegram.org or @UseTGXBot",
-            "value": ""
+            "value": "6611682"
         },
         "TG_USER_SESSION": {
             "description": "A pyrogram user session string. Generate from https://repl.it/@prgofficial/String-Gen",
